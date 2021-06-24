@@ -23,12 +23,12 @@ For this project we are helping a client determine whether it makes sense or not
 
 June Summary Statistics
 
-![image]https://github.com/roderickspells/surfs_up/blob/main/june_temperatures.png
+![image](https://github.com/roderickspells/surfs_up/blob/main/june_temperatures.png)
 
 
 December Summary Statistics
 
-![image]https://github.com/roderickspells/surfs_up/blob/main/december_temperatures.png
+![image](https://github.com/roderickspells/surfs_up/blob/main/december_temperatures.png)
 
 There are three key differences between June and December weather trends.
 
