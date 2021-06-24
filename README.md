@@ -13,10 +13,10 @@ For this project we are helping a client determine whether it makes sense or not
 
 Python 3.9 \
 Jupyter Notebooks 6.1.4 \
-Anaconda 3.8.5
-SQLite
-SQLAclchemy
-PostgreSQL
+Anaconda 3.8.5 \
+SQLite \
+SQLAclchemy \
+PostgreSQL \
 Flask
 
 ## Results
